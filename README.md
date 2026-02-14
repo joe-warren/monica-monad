@@ -4,3 +4,4 @@ In ["The Great 2009 Haskell Logo Contest"](https://wiki.haskell.org/Haskell_logo
 
 This repo represents my attempt to build out a more fully fleshed set of "Monica Monad" assets, 17 years after the character was created.
 
+![Monica](./monica-monad.svg)
